@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 hiiiiiiiii
 good morninggggg
 have a nice day
+=======
+health is wealth
+old is gold
+good morning
+
+>>>>>>> 2bbd4708ecef12e702e061024fc31c0fb6f0f859
